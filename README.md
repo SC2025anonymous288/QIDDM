@@ -1,4 +1,4 @@
-# **Denoising Diffusion Models with Improved Quantum Implicit Neural Networks for Image Generation (QIDDM)**
+# **Resource-Efficient Quantum Denoising Diffusion Models for Image Generation Using Improved Implicit Quantum Neural Networks**
 
 This repository contains the code for the trained model associated with our work.
 This repository contains the official implementation and trained models for our paper:  
